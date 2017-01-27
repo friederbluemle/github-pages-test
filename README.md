@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# AppMatrix
 
-You can use the [editor on GitHub](https://github.com/friederbluemle/github-pages-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![Build Status](https://travis-ci.org/friederbluemle/appmatrix.svg?branch=master)](https://travis-ci.org/friederbluemle/appmatrix)
+[![Coverage Status](https://coveralls.io/repos/github/friederbluemle/appmatrix/badge.svg?branch=master)](https://coveralls.io/github/friederbluemle/appmatrix?branch=master)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Description
 
-### Markdown
+A simple utility app that lists all your installed apps (optionally including system apps), with
+detailed version information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Screenshot 1](docs/screenshot01.png?raw=true)
+![Screenshot 2](docs/screenshot02.png?raw=true)
 
-```markdown
-Syntax highlighted code block
+## Future plans
 
-# Header 1
-## Header 2
-### Header 3
+The first version will only list local apps on the current device. The preliminary plan for version
+2 is to have a true app "matrix", i.e. an overview of all apps installed across multiple devices,
+synced to the user's Google account.
 
-- Bulleted
-- List
+## License
 
-1. Numbered
-2. List
+    Copyright 2017 Frieder Bluemle
 
-**Bold** and _Italic_ and `Code` text
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-[Link](url) and ![Image](src)
-```
+        http://www.apache.org/licenses/LICENSE-2.0
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/friederbluemle/github-pages-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.

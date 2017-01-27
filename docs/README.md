@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages from docs/
+# AppMatrix
 
-You can use the [editor on GitHub](https://github.com/friederbluemle/github-pages-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## List and manage your installed apps
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A simple utility app that lists all your installed apps (optionally including system apps), with detailed version information.
 
-### Markdown
+More features will be added soon and contributions are welcome.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This app is free and open source
+https://github.com/friederbluemle/appmatrix
 
-```markdown
-Syntax highlighted code block
+![Screenshot 1](screenshot01.png?raw=true)
+![Screenshot 2](screenshot02.png?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+## License
 
-- Bulleted
-- List
+    Copyright 2017 Frieder Bluemle
 
-1. Numbered
-2. List
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
 
-**Bold** and _Italic_ and `Code` text
+        http://www.apache.org/licenses/LICENSE-2.0
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/friederbluemle/github-pages-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
